@@ -1,4 +1,7 @@
 {
-  "expoServerPort": null,
-  "packagerPort": 19000
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://98-3xg.isooo.react-native-job-search-app.exp.direct",
+  "packagerNgrokUrl": "https://98-3xg.isooo.react-native-job-search-app.exp.direct",
+  "ngrokPid": 24200
 }
